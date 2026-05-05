@@ -25,7 +25,7 @@ echo is a concept iOS app that explores how music personalization can extend int
 
 The project focuses on **judgment, tradeoffs, and design clarity** rather than feature count.
 
-👉 https://github.com/ZooTeDxBooTeD/randotone-ios
+👉 https://github.com/ZooTeDxBooTeD/echo-ios
 
 ---
 
