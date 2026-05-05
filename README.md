@@ -1,4 +1,4 @@
-# Hi, I’m [Alistorfalls]
+# Hi, I’m [Alistor](@ZooTeDxBooTeD)
 
 iOS-focused engineer interested in **system-aware product design**, **privacy-first architecture**, and building thoughtful experiences within Apple platform constraints.
 
@@ -52,7 +52,7 @@ I enjoy projects where limitations shape better UX rather than being worked arou
 
 - Portfolio: https://yourwebsite.com  
 - GitHub: https://github.com/ZooTeDxBooTeD  
-- LinkedIn: https://linkedin.com/in/yourname  
+- LinkedIn: 
 
 ---
 
