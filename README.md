@@ -1,4 +1,4 @@
-# Hi, I’m [Your Name]
+# Hi, I’m [Alistorfalls]
 
 iOS-focused engineer interested in **system-aware product design**, **privacy-first architecture**, and building thoughtful experiences within Apple platform constraints.
 
@@ -25,7 +25,7 @@ RandoTone is a concept iOS app that explores how music personalization can exten
 
 The project focuses on **judgment, tradeoffs, and design clarity** rather than feature count.
 
-👉 https://github.com/yourusername/randotone-ios
+👉 https://github.com/ZooTeDxBooTeD/randotone-ios
 
 ---
 
@@ -51,7 +51,7 @@ I enjoy projects where limitations shape better UX rather than being worked arou
 ## Contact
 
 - Portfolio: https://yourwebsite.com  
-- GitHub: https://github.com/yourusername  
+- GitHub: https://github.com/ZooTeDxBooTeD  
 - LinkedIn: https://linkedin.com/in/yourname  
 
 ---
@@ -59,15 +59,3 @@ I enjoy projects where limitations shape better UX rather than being worked arou
 > I’m especially interested in teams that value craft, restraint, and long-term product thinking.
 <!--
 **ZooTeDxBooTeD/ZooTeDxBooTeD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
