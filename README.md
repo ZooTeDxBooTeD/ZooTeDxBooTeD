@@ -57,5 +57,3 @@ I enjoy projects where limitations shape better UX rather than being worked arou
 ---
 
 > I’m especially interested in teams that value craft, restraint, and long-term product thinking.
-<!--
-**ZooTeDxBooTeD/ZooTeDxBooTeD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
