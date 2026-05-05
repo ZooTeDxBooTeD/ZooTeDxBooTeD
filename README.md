@@ -50,9 +50,9 @@ I enjoy projects where limitations shape better UX rather than being worked arou
 
 ## Contact
 
-- Portfolio: https://yourwebsite.com  
+- Portfolio: (coming soon)
 - GitHub: https://github.com/ZooTeDxBooTeD  
-- LinkedIn: 
+- LinkedIn: (coming soon)
 
 ---
 
