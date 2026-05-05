@@ -12,10 +12,10 @@ I care deeply about:
 
 ## Featured Project
 
-### 🎵 RandoTone  
+### 🎵 echo 
 **Offline-first ringtone personalization for iOS**
 
-RandoTone is a concept iOS app that explores how music personalization can extend into ringtones while remaining fully aligned with iOS constraints and App Store guidelines.
+echo is a concept iOS app that explores how music personalization can extend into ringtones while remaining fully aligned with iOS constraints and App Store guidelines.
 
 **Key principles**
 - Offline-first after setup
@@ -25,7 +25,7 @@ RandoTone is a concept iOS app that explores how music personalization can exten
 
 The project focuses on **judgment, tradeoffs, and design clarity** rather than feature count.
 
-👉 https://github.com/ZooTeDxBooTeD/randotone-ios
+👉 https://github.com/ZooTeDxBooTeD/echo-ios
 
 ---
 
